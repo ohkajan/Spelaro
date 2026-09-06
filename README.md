@@ -10,7 +10,7 @@ A standalone audio player and optical transmitter powered by the ESP32-S3. Play 
   
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
-![Macondo](https://img.shields.io/badge/HackClub-Forge-red.svg)
+![Forge](https://img.shields.io/badge/HackClub-Forge-red.svg)
 <h4 align="center">
 
 <img width="3840" height="2160" alt="front" src="https://github.com/user-attachments/assets/018472c6-5f51-4824-9b8e-4eb2aa4a17ab" />
@@ -24,20 +24,19 @@ Spelarö is a custom hardware project that lets you play flac and mp3 files dire
 * **Storage:** Music files are stored on a standard micro SD card. The ESP32-S3 reads the files directly from the card. It then sends it via toslink.
 * **Interface:** You use a 2.8-inch TFT display to see your library and a 5-way joystick switch to navigate through your libary of songs. 
 * **Audio Output:** The ESP32-S3 processes the audio data and sends it out through a toslink transmitter. This results in perfect audio for audiophiles like me and my dad. 
-* **Status LED:** An onboard NeoPixel (WS2812B) provides visual feedback for power status and can be programmed to follow the song's rhythm or anything you want.
 
 ## Features
 
-* **ESP32-S3-NANO** microcontroller
+* **ESP32-S3-WROOM-1** microcontroller
 * **1x 2.8" TFT Display** 
 * **1x 5-way tactile joystick switch** 
 * **1x 1-way tactile switch** 
 * **1x Micro SD Card Reader** 
-* **1x Neopixel WS2812B** 
 * **1x Optical Toslink Transmitter (OTJ-5)** 
 
 # Schematic
-<img width="1242" height="882" alt="Screenshot 2026-08-01 004133" src="https://github.com/user-attachments/assets/1c50a60f-3ade-4680-b8df-a4bd8780b275" />
+<img width="1158" height="793" alt="image" src="https://github.com/user-attachments/assets/90ae9d52-611f-4bb4-adb6-b1ec26b8360f" />
+
 
 # PCB
 <img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/dceab73c-c0d2-470e-af67-ba29eb166972" />
