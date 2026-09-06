@@ -39,8 +39,9 @@ Spelarö is a custom hardware project that lets you play flac and mp3 files dire
 
 
 # PCB
-<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/dceab73c-c0d2-470e-af67-ba29eb166972" />
-<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/cc2b7b77-dfa9-4b15-a29c-6a73f544e3a2" />
+<img width="606" height="559" alt="image" src="https://github.com/user-attachments/assets/2d679124-b53a-46b5-8fc2-24d748398d7b" />
+<img width="985" height="892" alt="image" src="https://github.com/user-attachments/assets/a557656a-01d2-46ad-9511-70052a6b1f50" />
+
 
 # Bill Of Materials
 
