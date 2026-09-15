@@ -12,5 +12,5 @@ SW4,1 way switch,1,,https://www.electrokit.com/tryckknapp-pcb-12x12x5mm,$1.35
 "C2, C4, C6, C8",Capacitor,,10uF,https://www.electrokit.com/kondensator-1206-x7r-10uf-1016v,$2.10
 "R1, R2",Resistor,3,10k,https://www.electrokit.com/motstand-10kohm-0.25w-smd-1206,"$1,1"
 PCB,-,5,-,https://jlcpcb.com,"$2,00"
-Shipping,-,-,-,-,$32
-Total,-,-,-,-,"$72,83"
+Shipping,-,-,-,-,$35
+Total,-,-,-,-,"$76"
