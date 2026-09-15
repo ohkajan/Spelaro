@@ -1,15 +1,16 @@
 Designator,Footprint,Qty,Value,Link,Price (USD)
-U1,ESP32-S3-WROOM-1,1,,https://www.electrokit.com/esp32-s3-wroom-1-mcu-modul-16mb-psram-8mb,"$7,73"
-U2,Voltage Regulator,1,3.3V,https://www.electrokit.com/lp2985-33-sot-23-5-spanningsregulator-ldo-3.3v,"$1,52"
-U3,Toslink,1,,https://www.electrokit.com/toslink-optisk-sandare-pcb,"$2,93"
-J1,Micro USB,1,,https://www.electrokit.com/usb-micro-b-kontakt-smd-pcb,"$1,10"
+U1,ESP32-S3-WROOM-1,1,,https://www.electrokit.com/esp32-s3-wroom-1-mcu-modul-16mb-psram-8mb,"$7,60"
+U2,Voltage Regulator,1,3.3V,https://www.electrokit.com/lp2985-33-sot-23-5-spanningsregulator-ldo-3.3v,"$1,5"
+U3,Toslink,1,,https://www.electrokit.com/toslink-optisk-sandare-pcb,"$2,9"
+J1,Micro USB,1,,https://www.electrokit.com/usb-micro-b-kontakt-smd-pcb,"$1,1"
 J2,Screen,1,,https://www.amazon.se/-/en/gp/product/B09Z29CGY1/ref=ox_sc_saved_image_1?smid=A3LA1TDA4Q3SUA&psc=1,"$13,58"
-J3,Micro SD Reader,1,,https://www.electrokit.com/kontakt-microsd,"$0,68"
-"SW1, SW2",Switch,,,https://www.electrokit.com/tryckknapp-pcb-smd-1-pol-ksr-2n,"$1,52"
-SW3,5 way switch,1,,https://www.electrokit.com/navigeringsomkopplare-5-vags-med-tryckknapp-1,"$2,14"
-SW4,1 way switch,1,,https://www.electrokit.com/tryckknapp-pcb-12x12x5mm,"$0,33"
-"C1, C2",Capacitor,3,"100nF, 10nF",https://www.electrokit.com/kondensator-1206-x7r-100nf-10,"$2,08"
-"R1, R2",Resistor,3,10k,https://www.electrokit.com/motstand-10kohm-0.25w-smd-1206,"$1,04"
+J3,Micro SD Reader,1,,https://www.electrokit.com/kontakt-microsd,$1.35
+"SW1, SW2",Switch,,,https://www.electrokit.com/tryckknapp-pcb-smd-1-pol-ksr-2n,$3
+SW3,5 way switch,1,,https://www.electrokit.com/navigeringsomkopplare-5-vags-med-tryckknapp-1,"$2,15"
+SW4,1 way switch,1,,https://www.electrokit.com/tryckknapp-pcb-12x12x5mm,$1.35
+"C1, C3, C5, C7, C9",Capacitor,3,100nF,https://www.electrokit.com/kondensator-1206-x7r-100nf-10,$1.10
+"C2, C4, C6, C8",Capacitor,,10uF,https://www.electrokit.com/kondensator-1206-x7r-10uf-1016v,$2.10
+"R1, R2",Resistor,3,10k,https://www.electrokit.com/motstand-10kohm-0.25w-smd-1206,"$1,1"
 PCB,-,5,-,https://jlcpcb.com,"$2,00"
-Shipping,-,-,-,-,"$31,24"
-Total,-,-,-,-,"$67,89"
+Shipping,-,-,-,-,$32
+Total,-,-,-,-,"$72,83"
